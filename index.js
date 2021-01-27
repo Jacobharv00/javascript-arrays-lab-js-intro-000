@@ -38,4 +38,3 @@ function removeLastKitten(name) {
   newArray.pop(name)
   return newArray
 }
-
